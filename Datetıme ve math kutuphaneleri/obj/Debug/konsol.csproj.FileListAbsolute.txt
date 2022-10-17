@@ -1,0 +1,32 @@
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Hazır metotlar str metotlar 1\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Datetıme ve math kutuphaneleri\obj\Debug\konsol.pdb

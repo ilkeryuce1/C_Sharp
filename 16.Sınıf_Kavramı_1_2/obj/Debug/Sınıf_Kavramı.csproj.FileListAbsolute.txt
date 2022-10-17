@@ -1,0 +1,8 @@
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\bin\Debug\Sınıf_Kavramı.exe.config
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\bin\Debug\Sınıf_Kavramı.exe
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\bin\Debug\Sınıf_Kavramı.pdb
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\obj\Debug\Sınıf_Kavramı.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\obj\Debug\Sınıf_Kavramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\obj\Debug\Sınıf_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\obj\Debug\Sınıf_Kavramı.exe
+C:\Users\ilker\Desktop\Yazılım\PD\C#Patika\Sınıf_Kavramı\obj\Debug\Sınıf_Kavramı.pdb
