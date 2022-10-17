@@ -1,0 +1,16 @@
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\switch case\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\switch case\obj\Debug\konsol.pdb

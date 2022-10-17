@@ -1,0 +1,16 @@
+C:\Users\ilker\Desktop\PD\CP\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\ilker\Desktop\PD\CP\Odev2\bin\Debug\Odev2.exe
+C:\Users\ilker\Desktop\PD\CP\Odev2\bin\Debug\Odev2.pdb
+C:\Users\ilker\Desktop\PD\CP\Odev2\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2\obj\Debug\Odev2.exe
+C:\Users\ilker\Desktop\PD\CP\Odev2\obj\Debug\Odev2.pdb
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\bin\Debug\Odev2.exe.config
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\bin\Debug\Odev2.exe
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\bin\Debug\Odev2.pdb
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\obj\Debug\Odev2.exe
+C:\Users\ilker\Desktop\PD\CP\Odev2.1\obj\Debug\Odev2.pdb
