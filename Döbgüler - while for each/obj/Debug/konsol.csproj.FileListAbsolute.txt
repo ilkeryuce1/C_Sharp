@@ -1,0 +1,24 @@
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\konsol\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Döbgüler\obj\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\bin\Debug\konsol.exe.config
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\bin\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\bin\Debug\konsol.pdb
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\obj\Debug\konsol.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\obj\Debug\konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\obj\Debug\konsol.exe
+C:\Users\ilker\Desktop\PD\CP\Döbgüler - while for each\obj\Debug\konsol.pdb
